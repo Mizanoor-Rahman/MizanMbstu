@@ -30,5 +30,5 @@ I am Md. Mizanoor Rahman from Bangladesh.
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MizanMbstu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 <br />
- [Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=MizanMbstu) 
+ <!---![Top topics](https://sue445-github-readme-stats.vercel.app/api/top-topics/?username=MizanMbstu) --->
 <br />
