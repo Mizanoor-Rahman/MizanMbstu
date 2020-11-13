@@ -2,6 +2,7 @@
 I am **Md. Mizanoor Rahman** from Bangladesh.
 <br/>
 I am an undergraduate student at [MBSTU](http://mbstu.ac.bd/) on *Statistics* 
+![MizanMbstu](Asset/MizanMbstu.png)
 
 
 - 🔭 I’m currently working on Data Analysis.
