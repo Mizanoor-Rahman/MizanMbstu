@@ -12,11 +12,12 @@ I am an undergraduate student at [MBSTU](http://mbstu.ac.bd/) on *Statistics*
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mizanoor Rahman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Mizanoor Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Mizanoor Rahman | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 
-
+<br/>
 <br/>
 
 
@@ -40,6 +41,7 @@ I am an undergraduate student at [MBSTU](http://mbstu.ac.bd/) on *Statistics*
 
 [linkedin]:https://www.linkedin.com/in/mmr-tutul
 [instagram]:https://www.instagram.com/_mmr_tutul_/
+[facebook]:https://www.facebook.com/mmrtutul.3/
 
 
 
