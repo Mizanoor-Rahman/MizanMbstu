@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I am Md. Mizanoor Rahman from Bangladesh.
+I am Md. Mizanoor Rahman from Bangladesh.I am an undergraduate student at [MBSTU](http://mbstu.ac.bd/)
 
 <!--- Hit count -->
 [![HitCount](http://hits.dwyl.com/MizanMbstu/MizanMbstu.svg)](http://hits.dwyl.com/MizanMbstu/MizanMbstu)
