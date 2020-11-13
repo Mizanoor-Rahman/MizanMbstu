@@ -5,13 +5,13 @@
 [![HitCount](http://hits.dwyl.com/MizanMbstu/MizanMbstu.svg)](http://hits.dwyl.com/MizanMbstu/MizanMbstu)
  <img src="https://komarev.com/ghpvc/?username=MizanMbstu">
  
- 
+ ### Hi there 👋
 I am **Md. Mizanoor Rahman** from Bangladesh.
 <br/>
 I am an undergraduate student at [MBSTU](http://mbstu.ac.bd/) on *Statistics* 
 
 
-### Hi there 👋
+
 - 🔭 I’m currently working on Data Analysis.
 - 🌱 I’m currently learning everything 🤣
 - 😄 Pronouns: He/His
